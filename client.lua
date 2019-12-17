@@ -1,5 +1,4 @@
 
-local RRP = nil
 local recentlySpawned = 0
 
 Citizen.CreateThread(function()
